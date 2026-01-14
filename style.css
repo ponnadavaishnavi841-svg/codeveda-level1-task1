@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     max-width: 600px;
@@ -22,4 +23,30 @@ li {
     padding: 10px;
     border-radius: 5px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+=======
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+>>>>>>> 26e01567e89ae3812590f18bd6996284ccdf9d9f
 }

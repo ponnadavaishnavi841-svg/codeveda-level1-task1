@@ -1,52 +1,29 @@
-<<<<<<< HEAD
-body {
+{
     font-family: Arial, sans-serif;
     max-width: 600px;
-    margin: 50px auto;
+    margin: auto;
     padding: 20px;
     background-color: #f5f5f5;
 }
 
-h1 {
-    text-align: center;
-    color: #333;
+#user-list {
+    margin-bottom: 20px;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-li {
-    background-color: white;
+.user-card {
+    border: 1px solid #ccc;
+    padding: 10px;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
-=======
-body {
-    font-family: Arial, sans-serif;
-    max-width: 600px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #f5f5f5;
 }
 
-h1 {
-    text-align: center;
-    color: #333;
+form input {
+    margin: 5px;
+    padding: 5px;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-li {
-    background-color: white;
-    margin: 5px 0;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
->>>>>>> 26e01567e89ae3812590f18bd6996284ccdf9d9f
+button {
+    padding: 5px 10px;
+    cursor: pointer;
 }
